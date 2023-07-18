@@ -1,8 +1,5 @@
 var status="";
 var array=[]
-function preload(){
-  img=loadImage("animales.jpg")
-}
 function setup() {
     canvas = createCanvas(380,380);
     canvas.center();
